@@ -272,20 +272,20 @@ This is a shorter list than what I used. This is abbreviated to save you time.
 
 ### Interview Prep
 
-- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+- [x] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
     - answers in C++ and Java
     - this is a good warm-up for Cracking the Coding Interview
     - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
-- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+- [x] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
-
+&#x1F53B;
 If you have tons of extra time:
 
 - [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
 - [ ] Elements of Programming Interviews (Java version)
     - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
     - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
-
+&#x1F53A;
 ### Computer Architecture
 
 If short on time:
@@ -303,12 +303,12 @@ If short on time:
         - Chapter 9 - CPU Architecture
         - Chapter 10 - Instruction Set Architecture
         - Chapter 11 - Memory Architecture and Organization
-
+&#x1F53B;
 If you have more time (I want this book):
 
 - [ ] [Computer Architecture, Sixth Edition: A Quantitative Approach](https://www.amazon.com/dp/0128119055)
     - For a richer, more up-to-date (2017), but longer treatment
-
+&#x1F53A;
 
 ### Language Specific
 
@@ -350,7 +350,7 @@ OR:
     - Pythonic code
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
 
-
+&#x1F53B;
 ### Optional Books
 
 **Some people recommend these, but I think it's going overboard, unless you have many years of software engineering experience and expect a much harder interview:**
@@ -388,7 +388,7 @@ OR:
 - ~~"Algorithms and Programming: Problems and Solutions" by Shen~~
     - A fine book, but after working through problems on several pages I got frustrated with the Pascal, do while loops, 1-indexed arrays, and unclear post-condition satisfaction results.
     - Would rather spend time on coding problems from another book or online coding problems.
-
+&#x1F53A;
 
 ## Before you Get Started
 
