@@ -271,12 +271,13 @@ You'll see some C, C++, and Python learning included below, because I'm learning
 This is a shorter list than what I used. This is abbreviated to save you time.
 
 ### Interview Prep
-
+:arrow_forward::arrow_forward::arrow_forward:
 - [x] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
     - answers in C++ and Java
     - this is a good warm-up for Cracking the Coding Interview
     - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
-- [x] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+:arrow_backward::arrow_backward::arrow_backward:    
+- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
     
 &#x1F53B;
